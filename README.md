@@ -1,0 +1,1 @@
+This was a project to scrape and clean customers' reviews for british airlines from skytrax and analyze the data
